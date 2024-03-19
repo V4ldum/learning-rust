@@ -2,3 +2,16 @@
 **/.idea/
 
 the-rust-programming-language-book/1-2_hello-world/main
+
+debug/
+**/debug/
+target/
+**/target/
+
+Cargo.lock
+**/Cargo.lock
+
+**/*.rs.bk
+
+*.pdb
+**/*.pdb
